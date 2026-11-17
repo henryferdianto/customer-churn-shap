@@ -1,9 +1,6 @@
-pandas
 numpy
+pandas
 scikit-learn
-xgboost
-catboost
-imbalanced-learn
-shap
 joblib
-matplotlib
+pytest
+# optional: xgboost, catboost, imbalanced-learn, shap, matplotlib
